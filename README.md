@@ -1,1 +1,3 @@
 # TP1
+BRUNET Téo
+RICHARD Paul
