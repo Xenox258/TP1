@@ -1,7 +1,9 @@
-package main.java.test;
+
 import org.junit.jupiter.api.Test;
+
+import add.Add;
+
 import static org.junit.jupiter.api.Assertions.*;
-import main.java.add.Add;
 
 public class AddTest {
 
